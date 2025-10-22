@@ -9,15 +9,15 @@ Reciver IP : 10.233.243.188.
 Sender Email : zonnepaneel@appjj.serenitepure.fr.
 Reciver Email : phishing@pot.
 
-**Check email headers for discrepancies**.
+# Check email headers for discrepancies**.
 Tool Use For header Analyzer. 
 1.Mx Toolbox.
 2.EML header.
 
-**Identify suspicious links or attachments**.
+# Identify suspicious links or attachments**.
 Nothing Suspicious LINKs Or attachments in this Email
 
-**for urgent or threatening language in the email body**.
+# for urgent or threatening language in the email body**.
 I found the Something threatenting language , This is in HTMl language 
 
 Extracted URLs : https://i.imgur.com/Hr5TM3Y.png.
@@ -26,6 +26,6 @@ Original URLs : http://go.nltrck.com/?c=495&source=consumentenbond&s1=&lp=1190.
 Exracted Domain : go.nltrck.com.
 Original Domain : i.imgur.com.
 
-**Summarize phishing traits found in the email**.
+# Summarize phishing traits found in the email**.
           The Final Conclusion.
 The email shows clear signs of phishing using spoofed sender identity,No suspicious links, urgent tone, and poor grammar.          
